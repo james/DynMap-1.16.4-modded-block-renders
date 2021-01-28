@@ -1,0 +1,3 @@
+modname:allthemodium
+
+customblock:id=%teleport_pad,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.187500:1.000000/2:4:1:5:0:3
